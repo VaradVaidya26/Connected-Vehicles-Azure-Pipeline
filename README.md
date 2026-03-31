@@ -1,5 +1,5 @@
 # Connected-Vehicles-Azure-Pipeline
-End to end data pipeline for connected vehicles, moving data from AWS s3 to Azure Data Factory and Azure Functions and finally to Azure SQL Server
+End-to-end hybrid data pipeline for connected vehicle data using AWS S3 and Microsoft Azure, implementing Medallion Architecture (Bronze, Silver, Gold) with automated JSON validation and data ingestion into Azure SQL Database for analytics.
 
 
 <img width="1687" height="692" alt="Screenshot 2026-03-31 184440" src="https://github.com/user-attachments/assets/fa96ad7b-7aeb-4da4-9f8d-5d89ebcfa85e" />
